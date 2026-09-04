@@ -133,8 +133,8 @@ I am especially interested in the intersection of:
 
 ## Tech & Tools
 
-**Infrastructure**
-Linux · AWS / Cloud · Nginx · Docker · Kubernetes · Terraform
+**Cloud & Infrastructure**
+Azure · Linux · Nginx · Docker · Kubernetes · Cloud-hosted VM environments
 
 **Backend & Automation**
 Python · FastAPI · REST APIs · PostgreSQL
