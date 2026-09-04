@@ -1,16 +1,23 @@
-## Hi there 👋
+Update README.md in austin65enix/austin65enix.
 
-<!--
-**austin65enix/austin65enix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Goal:
+Turn the GitHub profile into a concise engineering portfolio landing page.
 
-Here are some ideas to get you started:
+Preserve these positioning themes:
+- Cloud
+- Observability
+- Security
+- AI Runtime Governance
+- Process-to-Execution Governance Continuity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected work:
+1. governance-event-core
+2. enyrax-cloud-portal
+3. observatory-ops
+
+Foundation:
+- soc-monitoring-siem-lab
+
+Do not invent technologies or capabilities not evidenced by the repositories.
+Keep the README recruiter-readable.
+Commit the change to a new branch and prepare a PR.
